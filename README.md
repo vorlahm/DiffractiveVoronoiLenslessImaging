@@ -1,4 +1,4 @@
-# DiffractiveVoronoiLenslessImaging
+# Diffractive Voronoi Lensless Imaging
 
 ### [Project Page](https://vccimaging.org/Publications/Fu2022Diffractive/) | [Paper](https://doi.org/10.1364/OE.475004)
 
