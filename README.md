@@ -4,6 +4,8 @@
 
 [Qiang Fu](https://fuqiangx.github.io/), [Dong-Ming Yan](https://sites.google.com/site/yandongming/dong-ming-yans-homepage), [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/)
 
+We demonstrate the optimization of Voronoi-Fresnel phase using our proposed two-step quasi-Centroidal Voronoi Tessellation optimization scheme. In the first step, we fix the number of Voronoi sites K, and adopt a modified Lloyd iteration routine to maximize the panchromatic Modulation Transfer Function volume (MTFv). In the second step, we run the same optimization for different K, and find the best number of Voronoi sites. Please try the demo code ```demo_optimization.m``` for a small scale optimization (this is part of the implementation of Fig. 3 in our paper).
+
 If you find our work useful in your research, please cite the following paper.
 
 ```
